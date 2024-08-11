@@ -1,0 +1,9 @@
+PyMuPDF
+fitz==0.0.1.dev2
+lxml
+nltk==3.7
+pandas==2.2.2
+Pillow==10.4.0
+pytesseract==0.3.10
+Requests==2.32.3
+scikit_learn==1.2.2
